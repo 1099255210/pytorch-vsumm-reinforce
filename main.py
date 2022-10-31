@@ -20,6 +20,7 @@ from models import *
 from rewards import compute_reward
 import vsum_tools
 
+torch.backends.cudnn.enabled = False
 parser = argparse.ArgumentParser("Pytorch code for unsupervised video summarization with REINFORCE")
 # Dataset options
 parser.add_argument('-d', '--dataset', type=str, required=True, help="path to h5 dataset (required)")
