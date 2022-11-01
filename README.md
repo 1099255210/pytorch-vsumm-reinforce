@@ -15,7 +15,7 @@ This repo is forked from (https://github.com/KaiyangZhou/pytorch-vsumm-reinforce
 git clone git@github.com:1099255210/pytorch-vsumm-reinforce.git
 ```
 
-数据集：[百度网盘](链接：https://pan.baidu.com/s/1so9yMGs-oy_QBWeUZb9K6w?pwd=joau)
+数据集：[百度网盘](https://pan.baidu.com/s/1so9yMGs-oy_QBWeUZb9K6w?pwd=joau)
 
 在代码仓库中创建 `dataset` 文件夹，将数据集解压到该文件夹下
 
